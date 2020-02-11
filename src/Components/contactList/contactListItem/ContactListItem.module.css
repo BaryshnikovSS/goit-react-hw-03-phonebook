@@ -1,0 +1,16 @@
+.list {
+    display: flex;
+    padding: 6px 20px;
+}
+
+.list p {
+    margin-right: 10px;
+}
+
+.list button {
+    background-color: #ffffff;
+    border: 1px solid rgba(146, 144, 144, 0.564);
+    border-radius: 4px;
+    width: 50px;
+    height: 20px;
+}
